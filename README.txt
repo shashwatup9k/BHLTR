@@ -16,10 +16,12 @@ bho-resources/
 │ 
 │  
 └─ parallel-corpora/
-   ├─ README.md
-   ├─ eng-bho/
-   │  └─ eng-bho.en
-   │  └─ eng-bho.bho
+   ├─ eng--bho.training.eng
+   ├─ eng--bho.training.bho
+   ├─ eng--bho.development.eng
+   ├─ eng--bho.development.bho      
+   ├─ eng--bho.test.eng2bho.eng
+   ├─ eng--bho.test.bho2eng.bho
 ├─ license.md
 ├─ README.md
 ├─ README.txt
