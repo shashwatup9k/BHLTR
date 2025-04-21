@@ -6,7 +6,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resources (BH
 
 ## Structure of the `BHLTR data` folder
 ```
-bho-resources/
+BHLTR/
 ├─ mono-bho-corpus/
 │  ├─ monolingual.bho
 │  ├─ README.md
