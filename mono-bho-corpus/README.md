@@ -33,7 +33,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolingual corp
 </pre>
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: BHLTR v1.0
+Data available since: BHLTR v1.0 (2019)
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: nonfiction news
