@@ -63,7 +63,7 @@ other papers/references about the BHLTR are:
 @inproceedings{ojha2015training,
   title={Training \& evaluation of POS taggers in Indo-Aryan languages: a case of Hindi, Odia and Bhojpuri},
   author={Ojha, Atul Kr. and Behera, Pitambar and Singh, Srishti and Jha, Girish N},
-  booktitle={the proceedings of 7th Language \& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
+  booktitle={The Proceedings of the 7th Language \& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
   pages={524--529},
   year={2015}
 }
