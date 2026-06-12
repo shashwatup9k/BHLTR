@@ -2,7 +2,7 @@ Bhojpuri Language Technological Resources (BHLTR)
 ========================================================
 Introduction
 =======
-The Bhojpuri (https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resources (BHLTR) project was intially initiated by me (Atul (http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at Jawaharlal Nehru University (JNU), New Delhi (http://sanskrit.jnu.ac.in/index.jsp) during the doctoral(http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHLTR data contains monolingual, parallel (English-Bhojpuri), and POS annotaed monolingual corpora. In this data, POS is annotated  according to Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset(http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
+The Bhojpuri (https://en.wikipedia.org/wiki/Bhojpuri_language) LT Resources (BHLTR) project was initially initiated by me (Atul (https://tinyurl.com/y4m6pu82)) during my PhD. BHLTR data contains monolingual, parallel (English-Bhojpuri), and POS annotated monolingual corpora. In this data, POS is annotated  according to the Bureau of Indian Standards (BIS) Part of Speech (POS) tagset(http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
 
 Structure of the `BHLTR data` folder
 =======================
@@ -30,7 +30,7 @@ bho-resources/
 Acknowledgments
 =======
 
-I would like to thanks my Doctoral supervisor Prof. Girish Nath Jha (https://jnu.ac.in/Faculty/gnjha/) and Sanskrit Computational Lab, JNU, New Delhi (http://sanskrit.jnu.ac.in/index.jsp).
+Please see specific repos for the acknowledgements. 
 
 References
 =======
@@ -62,7 +62,7 @@ References
 @inproceedings{ojha2015training,
   title={Training \& evaluation of POS taggers in Indo-Aryan languages: a case of Hindi, Odia and Bhojpuri},
   author={Ojha, Atul Kr. and Behera, Pitambar and Singh, Srishti and Jha, Girish N},
-  booktitle={the proceedings of 7th Language \& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
+  booktitle={The Proceedings of the 7th Language \& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
   pages={524--529},
   year={2015}
 }
