@@ -70,7 +70,7 @@ References
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: BHLTR v1.0
+Data available since: BHLTR v1.0 (2019)
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Contributors: Ojha, Atul Kr.
